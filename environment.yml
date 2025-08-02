@@ -1,0 +1,11 @@
+name: metaphenomap-env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - biopython
+  - requests
+  - pandas
+  - tqdm
