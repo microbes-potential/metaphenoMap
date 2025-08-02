@@ -141,7 +141,7 @@ Check the `metaphenomap_bench/` folder for:
 
 ## 🧾 Citation
 
-> [Your Name]. *MetaPhenoMap: A Unified CLI for Mining Phenotype-Linked Metadata from Public Genomic Repositories*. (2025) [DOI or Preprint link]
+> [Adeel Farooq]. *MetaPhenoMap: A Unified CLI for Mining Phenotype-Linked Metadata from Public Genomic Repositories*. (2025) [DOI or Preprint link]
 
 ---
 
