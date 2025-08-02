@@ -1,0 +1,1 @@
+print('throughput bench placeholder')
